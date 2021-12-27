@@ -1,15 +1,16 @@
+
+
 The_man_of_data from CUFE
-
-1. 数据爬取
+originally designed by 赵龙+刘东龙+冯瑾奕
+part1. 数据爬取
    spider
-2. 数据处理
+part2. 数据处理
    pre
-3. apriori
+part3. apriori
    apriori
-4. 分类
+part4. 分类
    classfication
-5. 聚类
-
+part5. 聚类
    cluster
 
 
