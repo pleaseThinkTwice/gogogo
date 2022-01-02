@@ -12,9 +12,9 @@ import sqlite3
 
 import json
 def ini_cell():
-
-    l1=["id",'media_count']
-    return l1
+    l2=["id",'name','channel_count','id','name','subscribed_count','archive_count','featured_count']
+    l1=["19大类每个类的id","19类每个类的名字","每个大类分为多少个小类","每个小类的id","每个小类的名","每个小类的订阅数","每个小类的视频总数"]
+    return l1,l2
 def main ():
     baseurl = "https://api.bilibili.com/x/web-interface/web/channel/category/channel_arc/list?id="
     categories=nineteen()
